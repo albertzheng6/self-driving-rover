@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    overflow: hidden; /*auto also works*/
+}
+
+canvas {
+    background: rgb(109, 36, 13);
+}
